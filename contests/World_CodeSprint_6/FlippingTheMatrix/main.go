@@ -1,5 +1,11 @@
 package main
 
-func main(
+type Matrix struct {
+	n      int
+	matrix [][]int
+}
 
-)
+func main() {
+
+}
+
